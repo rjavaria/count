@@ -1,6 +1,6 @@
 # count
 
-Below steps to be followed follow for build, run and test the counter:
+Below steps to be followed for build, run and test the counter:
 
 Download the counter repository
 
